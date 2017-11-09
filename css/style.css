@@ -4,3 +4,28 @@
   margin: 0px;
   padding: 0px;
 }
+
+/* NAV STYLING =========================
+=======================================*/
+
+.main-nav {
+  display: flex;
+  justify-content: space-between;
+  background: chocolate;
+  padding: 10px 5px;
+}
+
+.main-nav-list {
+  display: flex;
+  list-style-type: none;
+}
+
+.main-nav-list li {
+  margin: 0px 20px;
+}
+
+.main-nav a {
+  text-decoration: none;
+  color: #fff;
+  font-size: 1.3rem;
+}
