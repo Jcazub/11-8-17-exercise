@@ -29,3 +29,12 @@
   color: #fff;
   font-size: 1.3rem;
 }
+
+/* BANNER STYLING ======================
+=======================================*/
+
+.banner {
+  text-align: center;
+  padding: 2rem 0;
+  background: pink;
+}
